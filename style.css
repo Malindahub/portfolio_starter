@@ -1,5 +1,48 @@
 /* CSS files add styling rules to your content */
 
-h1 {
-  color: green;
+body {
+  background-color: #c7eaed;
+  color: #2c2636;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+}
+
+h1{
+  color: #427ab3;
+}
+
+img {
+  width: 350px;
+}
+
+a {
+  color: #0080ff;
+}
+
+a:hover {
+  color: #17d3ff;
+}
+
+.topnav {
+  background-color: #89d1db;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #b5c5d7;
+  color: #505ea9;
+}
+
+.project{
+  background-color: #89d1db;
+  padding: 14px 16px;
 }
